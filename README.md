@@ -14,10 +14,11 @@ Images and raster data for Python exercises.
 
 - `sample_images/` — test images for display, histograms, contrast, filtering, and morphology.
 - Source: [scikit-image sample data](https://scikit-image.org/docs/stable/api/skimage.data.html).
-- License: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+- **CC0 1.0:** `camera.png`, `cell.png`, `chelsea.png`, `gravel.png`, `horse.png` — [license](https://creativecommons.org/publicdomain/zero/1.0/).
+- **Public domain:** `astronaut.png` (NASA photograph) — [source and copyright status](https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.astronaut).
 - **Allowed:** copy, modify, redistribute, and use commercially.
 - **Attribution:** not required; citing the source is recommended.
-- **Limitations:** no warranty; CC0 does not grant trademark, privacy, or publicity rights.
+- **Limitations:** provided without warranty; third-party privacy, publicity, or trademark rights may still apply.
 
 ---
 
